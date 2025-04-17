@@ -1,0 +1,372 @@
+{
+    "文化背景": {
+        "文化背景": "文章反映出东亚地区复杂的历史和政治纠葛，涉及国家主权、文化认同及国际外交互动，体现出深厚的中港台历史情结。"
+    },
+    "文章结构": {
+        "第1段": {
+            "思路": "Introduces the sensitive Taiwan issue and the One China policy sparking international debates."
+        },
+        "第2段": {
+            "思路": "Traces Taiwan’s historical transfer from China to Japan and a civil war resulting in political division."
+        },
+        "第3段": {
+            "思路": "Explains the PRC's One China policy and its efforts to diplomatically isolate Taiwan."
+        },
+        "第4段": {
+            "思路": "Describes Taiwan's ambiguous political status and internal debates over independence versus status quo."
+        },
+        "第5段": {
+            "思路": "Highlights international implications as nations balance strategic ties with the PRC and unofficial support for Taiwan."
+        },
+        "第6段": {
+            "思路": "Concludes that Taiwan remains a critical flashpoint with an uncertain future influenced by global politics."
+        }
+    },
+    "词汇": {
+        "issue": {
+            "释义": {
+                "n.": "问题；事件"
+            },
+            "发音": "/ˈɪʃuː/",
+            "例句": {
+                "句子": "The issue raised many concerns among the scholars.",
+                "翻译": "这个问题引起了学者们的许多担忧。"
+            }
+        },
+        "sensitive": {
+            "释义": {
+                "adj.": "敏感的；易受影响的"
+            },
+            "发音": "/ˈsɛnsɪtɪv/",
+            "例句": {
+                "句子": "The topic is very sensitive and requires careful discussion.",
+                "翻译": "这个话题非常敏感，需要谨慎讨论。"
+            }
+        },
+        "complex": {
+            "释义": {
+                "adj.": "复杂的；难以理解的"
+            },
+            "发音": "/ˈkɒmplɛks/ or /ˈkɑːmplɛks/",
+            "例句": {
+                "句子": "The complex situation perplexed all the experts.",
+                "翻译": "复杂的局面使所有专家都感到困惑。"
+            }
+        },
+        "controversy": {
+            "释义": {
+                "n.": "争议；辩论"
+            },
+            "发音": "/ˈkɒntrəvɜːrsi/",
+            "例句": {
+                "句子": "The new policy sparked a fierce controversy among the citizens.",
+                "翻译": "新政策在市民中引起了激烈的争议。"
+            }
+        },
+        "policy": {
+            "释义": {
+                "n.": "政策；方针"
+            },
+            "发音": "/ˈpɒlɪsi/ or /ˈpɑːləsi/",
+            "例句": {
+                "句子": "The government introduced a policy to boost economic growth.",
+                "翻译": "政府推出了一项促进经济增长的政策。"
+            }
+        },
+        "principle": {
+            "释义": {
+                "n.": "原则；原理"
+            },
+            "发音": "/ˈprɪnsəpl/",
+            "例句": {
+                "句子": "He stood by his principles despite all the challenges.",
+                "翻译": "尽管面对重重挑战，他仍坚守自己的原则。"
+            }
+        },
+        "assert": {
+            "释义": {
+                "vt.": "断言；坚称"
+            },
+            "发音": "/əˈsɜːrt/",
+            "例句": {
+                "句子": "She asserted her rights during the negotiation.",
+                "翻译": "她在谈判中坚决主张自己的权利。"
+            }
+        },
+        "debate": {
+            "释义": {
+                "n.": "辩论；讨论",
+                "v.": "辩论；讨论"
+            },
+            "发音": "/dɪˈbeɪt/ (n. often /ˈdebət/)",
+            "例句": {
+                "句子": "The candidates engaged in a heated debate about the issue.",
+                "翻译": "候选人就这一问题展开了激烈的辩论。"
+            }
+        },
+        "cede": {
+            "释义": {
+                "vt.": "割让；放弃"
+            },
+            "发音": "/siːd/",
+            "例句": {
+                "句子": "After the war, the territory was ceded to the neighboring country.",
+                "翻译": "战争结束后，这片领土被割让给了邻国。"
+            }
+        },
+        "defeat": {
+            "释义": {
+                "n.": "失败；挫折",
+                "v.": "战胜；击败"
+            },
+            "发音": "/dɪˈfiːt/",
+            "例句": {
+                "句子": "The team's defeat was unexpected by all supporters.",
+                "翻译": "球队的失败出乎所有支持者的意料。"
+            }
+        },
+        "retreat": {
+            "释义": {
+                "n.": "撤退；退却",
+                "v.": "撤退；后退"
+            },
+            "发音": "/rɪˈtriːt/",
+            "例句": {
+                "句子": "The forces had to retreat after a fierce battle.",
+                "翻译": "激战后，军队不得不撤退。"
+            }
+        },
+        "separate": {
+            "释义": {
+                "adj.": "分离的；独立的",
+                "v.": "分开；隔离"
+            },
+            "发音": "/ˈsɛprət/",
+            "例句": {
+                "句子": "The island developed a separate identity over time.",
+                "翻译": "随着时间的推移，这个岛屿形成了独特的身份。"
+            }
+        },
+        "division": {
+            "释义": {
+                "n.": "分裂；差异"
+            },
+            "发音": "/dɪˈvɪʒən/",
+            "例句": {
+                "句子": "A deep division exists between the two political camps.",
+                "翻译": "两个政治阵营之间存在着深刻的分裂。"
+            }
+        },
+        "contention": {
+            "释义": {
+                "n.": "争论；争执"
+            },
+            "发音": "/kənˈtɛnʃən/",
+            "例句": {
+                "句子": "The issue remains a major point of contention among experts.",
+                "翻译": "这一问题仍然是专家们争论的主要焦点。"
+            }
+        },
+        "isolate": {
+            "释义": {
+                "vt.": "孤立；分离"
+            },
+            "发音": "/ˈaɪsəleɪt/",
+            "例句": {
+                "句子": "The country tried to isolate itself from international pressures.",
+                "翻译": "该国试图使自己与国际压力隔离开来。"
+            }
+        },
+        "sovereign": {
+            "释义": {
+                "adj.": "主权的；至高无上的",
+                "n.": "主权者；最高统治者"
+            },
+            "发音": "/ˈsɒvrɪn/ or /ˈsɑːvrɪn/",
+            "例句": {
+                "句子": "The nation insisted on its sovereign rights during the negotiations.",
+                "翻译": "在谈判中，该国坚持其主权权利。"
+            }
+        },
+        "ambiguous": {
+            "释义": {
+                "adj.": "模棱两可的；含糊不清的"
+            },
+            "发音": "/æmˈbɪɡjuəs/",
+            "例句": {
+                "句子": "The statement was ambiguous and led to multiple interpretations.",
+                "翻译": "这一声明含糊不清，导致多种解读。"
+            }
+        },
+        "de facto": {
+            "释义": {
+                "adj.": "事实上；实际上的"
+            },
+            "发音": "/diː ˈfæktoʊ/",
+            "例句": {
+                "句子": "The region became a de facto independent entity over time.",
+                "翻译": "随着时间的推移，该地区事实上成为一个独立实体。"
+            }
+        },
+        "distinct": {
+            "释义": {
+                "adj.": "明显不同的；独特的"
+            },
+            "发音": "/dɪˈstɪŋkt/",
+            "例句": {
+                "句子": "Her ideas were distinct from those of her colleagues.",
+                "翻译": "她的观点与同事们的截然不同。"
+            }
+        },
+        "independence": {
+            "释义": {
+                "n.": "独立；自主"
+            },
+            "发音": "/ˌɪndɪˈpɛndəns/",
+            "例句": {
+                "句子": "Many citizens value the hard-won independence of their nation.",
+                "翻译": "许多市民珍视来之不易的国家独立。"
+            }
+        },
+        "advocate": {
+            "释义": {
+                "v.": "提倡；主张",
+                "n.": "拥护者；提倡者"
+            },
+            "发音": "/ˈædvəkeɪt/",
+            "例句": {
+                "句子": "The leader continued to advocate for peaceful reforms.",
+                "翻译": "这位领导人不断主张和平改革。"
+            }
+        },
+        "provoke": {
+            "释义": {
+                "v.": "激起；引发"
+            },
+            "发音": "/prəˈvoʊk/",
+            "例句": {
+                "句子": "His remarks were intended to provoke a strong reaction.",
+                "翻译": "他的言论旨在激起强烈反应。"
+            }
+        },
+        "military": {
+            "释义": {
+                "adj.": "军事的；军队的",
+                "n.": "军队；军事力量"
+            },
+            "发音": "/ˈmɪlɪtɛri/",
+            "例句": {
+                "句子": "The military presence in the region increased significantly.",
+                "翻译": "该地区的军事存在显著增加。"
+            }
+        },
+        "diplomatic": {
+            "释义": {
+                "adj.": "外交的；策略性的"
+            },
+            "发音": "/ˌdɪpləˈmætɪk/",
+            "例句": {
+                "句子": "The ambassador employed a very diplomatic tone during the meeting.",
+                "翻译": "大使在会议中使用了非常外交性的语气。"
+            }
+        },
+        "trade": {
+            "释义": {
+                "n.": "贸易；交换",
+                "v.": "交换；交易"
+            },
+            "发音": "/treɪd/",
+            "例句": {
+                "句子": "The two countries signed a comprehensive trade agreement.",
+                "翻译": "两国签署了一项全面的贸易协议。"
+            }
+        },
+        "strategy": {
+            "释义": {
+                "n.": "策略；谋略"
+            },
+            "发音": "/ˈstrætədʒi/",
+            "例句": {
+                "句子": "Their strategy focused on long-term economic development.",
+                "翻译": "他们的策略侧重于长期经济发展。"
+            }
+        },
+        "ambiguity": {
+            "释义": {
+                "n.": "模糊性；歧义"
+            },
+            "发音": "/ˌæmbɪˈɡjuːəti/",
+            "例句": {
+                "句子": "The ambiguity of the law has led to varied interpretations.",
+                "翻译": "法律的模糊性导致了解释上的分歧。"
+            }
+        },
+        "geopolitics": {
+            "释义": {
+                "n.": "地缘政治；地政学"
+            },
+            "发音": "/ˌdʒiːoʊpɒˈlɪtɪks/",
+            "例句": {
+                "句子": "Modern geopolitics involves complex international alliances.",
+                "翻译": "现代地缘政治涉及复杂的国际联盟。"
+            }
+        },
+        "unresolved": {
+            "释义": {
+                "adj.": "未解决的；悬而未决的"
+            },
+            "发音": "/ˌʌnrɪˈzɒlvd/",
+            "例句": {
+                "句子": "The dispute remained unresolved for decades.",
+                "翻译": "争端持续几十年未能解决。"
+            }
+        },
+        "flashpoint": {
+            "释义": {
+                "n.": "摩擦点；热点问题"
+            },
+            "发音": "/ˈflæʃpɔɪnt/",
+            "例句": {
+                "句子": "The border has long been a flashpoint for tensions.",
+                "翻译": "这条边界长期以来一直是紧张局势的热点。"
+            }
+        }
+    },
+    "句型": {
+        "Inversion structure": [
+            {
+                "原文": "At the heart of the controversy lies the 'One China' policy.",
+                "句型": "倒装句",
+                "例句": "At the center of the debate stands a compelling argument for unity."
+            }
+        ],
+        "Participial phrase structure": [
+            {
+                "原文": "The Taiwan issue, deeply rooted in the historical and political context of China and its relationship with Taiwan, has been one of the most sensitive and complex matters in East Asia.",
+                "句型": "分词短语修饰结构",
+                "例句": "The report, filled with intricate details, impressed every reader."
+            }
+        ],
+        "Passive voice": [
+            {
+                "原文": "Taiwan was ceded to Japan after the First Sino-Japanese War.",
+                "句型": "被动语态",
+                "例句": "The document was approved by the committee."
+            }
+        ],
+        "Compound sentence": [
+            {
+                "原文": "Some favor maintaining the status quo, while others advocate for formal independence.",
+                "句型": "并列复合句",
+                "例句": "Some students study in groups, while others prefer solitude."
+            }
+        ],
+        "Concessive clause": [
+            {
+                "原文": "While both sides stand firm in their respective positions, the future of Taiwan remains uncertain.",
+                "句型": "让步状语从句",
+                "例句": "Though he was tired, he continued working diligently."
+            }
+        ]
+    }
+}
